@@ -1,0 +1,13 @@
+=========================================
+        MY OPEN SOURCE MANIFESTO         
+        Date: 28 March 2026                      
+=========================================
+
+Software is more than just code; it is a collaborative human endeavor.
+Every day, I rely on tools like Linux Kernel to learn, create, and explore.
+When I think of the open-source movement, the word that comes to mind is 'Everything'.
+Just as thousands of developers contributed to the Linux Kernel to give us a robust, free foundation,
+I believe in giving back to this ecosystem. If I could, I would build public work
+and share it freely with the world, ensuring that knowledge remains accessible to all.
+
+- Signed, Harshil
